@@ -1,4 +1,4 @@
-public class Math {
+public class Math_options {
     public static void main (String[] args) {
 
         double num1 = 5;
